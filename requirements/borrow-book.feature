@@ -1,3 +1,9 @@
+# Gherkin es un lenguaje de dominio específico (DSL) legible para humanos
+# que se utiliza para definir el comportamiento de un sistema 
+# a través de escenarios claros y estructurados, conectando a 
+# perfiles de negocio, desarrollo y calidad.
+# https://www.qamakers.com/p/guia-completa-de-cucumber-y-gherkin.html
+
 Feature: Borrow a book
 
   Scenario: A standard member borrows an available book
